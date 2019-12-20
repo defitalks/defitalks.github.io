@@ -5,10 +5,10 @@
 # Site
 title: DeFi相对论
 subtitle: '让金融科技更易懂'
-description: ''
+description: '让blockchain+Finance，带来普惠金融'
 keywords:
-author: Kai Jing
-language: zh
+author: 'Kai Jing'
+language: 'zh-CN'
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -59,7 +59,7 @@ highlight:
 index_generator:
   path: ''
   per_page: 10
-  order_by: -date
+  order_by: date
 
 # Category & Tag
 default_category: uncategorized
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hipaper 
+theme: hipaper
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
