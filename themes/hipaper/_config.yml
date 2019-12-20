@@ -44,7 +44,6 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- search
 - social
 - recent_posts
 - category
